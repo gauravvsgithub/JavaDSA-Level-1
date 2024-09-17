@@ -5,7 +5,6 @@
     3. Span = difference of maximum and mininum element inside the array
     
     Solution: Video 94, level 1 dsa, pepcoding
-    We can do one digit at a time and then add the numbers (just like normal multiplication)
     
 */
 
