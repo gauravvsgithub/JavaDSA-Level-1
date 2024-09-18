@@ -1,5 +1,5 @@
 /*
-    Problem: Bar Chart
+    Problem:
     1. Given two arrays as two numbers, print sum of two numbers as an array
     
     Solution: Video 100, level 1 dsa, pepcoding
